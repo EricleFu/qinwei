@@ -1,0 +1,915 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta content="7f373de9-3bbf-44a3-a21b-79a6cf84c4f3" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.46.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>精通以太坊：开发智能合约和去中心化应用 (O’Reilly精品图书系列)</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>O’Reilly Media,Inc.介绍</text>
+      </navLabel>
+      <content src="text/part0002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>本书赞誉</text>
+      </navLabel>
+      <content src="text/part0003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>推荐序一</text>
+      </navLabel>
+      <content src="text/part0004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>推荐序二</text>
+      </navLabel>
+      <content src="text/part0005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>译者序</text>
+      </navLabel>
+      <content src="text/part0006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>译者简介</text>
+      </navLabel>
+      <content src="text/part0007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>前言</text>
+      </navLabel>
+      <content src="text/part0008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>术语速查</text>
+      </navLabel>
+      <content src="text/part0009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>第1章 什么是以太坊？</text>
+      </navLabel>
+      <content src="text/part0010.html"/>
+      <navPoint class="chapter" id="num_10" playOrder="10">
+        <navLabel>
+          <text>以太坊与比特币的比较</text>
+        </navLabel>
+        <content src="text/part0011.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_11" playOrder="11">
+        <navLabel>
+          <text>区块链的组件</text>
+        </navLabel>
+        <content src="text/part0012.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_12" playOrder="12">
+        <navLabel>
+          <text>以太坊的诞生</text>
+        </navLabel>
+        <content src="text/part0013.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_13" playOrder="13">
+        <navLabel>
+          <text>以太坊的四个开发阶段</text>
+        </navLabel>
+        <content src="text/part0014.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_14" playOrder="14">
+        <navLabel>
+          <text>以太坊：一个通用目的的区块链</text>
+        </navLabel>
+        <content src="text/part0015.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_15" playOrder="15">
+        <navLabel>
+          <text>以太坊的组件</text>
+        </navLabel>
+        <content src="text/part0016.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_16" playOrder="16">
+        <navLabel>
+          <text>以太坊和图灵完备</text>
+        </navLabel>
+        <content src="text/part0017.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_17" playOrder="17">
+        <navLabel>
+          <text>从通用目的的区块链到DApp</text>
+        </navLabel>
+        <content src="text/part0018.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_18" playOrder="18">
+        <navLabel>
+          <text>互联网的第三次浪潮</text>
+        </navLabel>
+        <content src="text/part0019.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_19" playOrder="19">
+        <navLabel>
+          <text>以太坊的开发文化</text>
+        </navLabel>
+        <content src="text/part0020.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_20" playOrder="20">
+        <navLabel>
+          <text>为什么要学习以太坊？</text>
+        </navLabel>
+        <content src="text/part0021.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_21" playOrder="21">
+        <navLabel>
+          <text>这本书将会教你什么内容？</text>
+        </navLabel>
+        <content src="text/part0022.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>第2章 以太坊基本概念</text>
+      </navLabel>
+      <content src="text/part0023.html"/>
+      <navPoint class="chapter" id="num_23" playOrder="23">
+        <navLabel>
+          <text>以太币的货币单位</text>
+        </navLabel>
+        <content src="text/part0024.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_24" playOrder="24">
+        <navLabel>
+          <text>选择以太坊钱包</text>
+        </navLabel>
+        <content src="text/part0025.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_25" playOrder="25">
+        <navLabel>
+          <text>控制和责任</text>
+        </navLabel>
+        <content src="text/part0026.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_26" playOrder="26">
+        <navLabel>
+          <text>MetaMask入门</text>
+        </navLabel>
+        <content src="text/part0027.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_27" playOrder="27">
+        <navLabel>
+          <text>世界计算机简介</text>
+        </navLabel>
+        <content src="text/part0028.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_28" playOrder="28">
+        <navLabel>
+          <text>外部账户和合约账户</text>
+        </navLabel>
+        <content src="text/part0029.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_29" playOrder="29">
+        <navLabel>
+          <text>一个简单的智能合约：Faucet</text>
+        </navLabel>
+        <content src="text/part0030.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_30" playOrder="30">
+        <navLabel>
+          <text>编译Faucet合约</text>
+        </navLabel>
+        <content src="text/part0031.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_31" playOrder="31">
+        <navLabel>
+          <text>在区块链上创建合约</text>
+        </navLabel>
+        <content src="text/part0032.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_32" playOrder="32">
+        <navLabel>
+          <text>与合约进行交互</text>
+        </navLabel>
+        <content src="text/part0033.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_33" playOrder="33">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/part0034.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_34" playOrder="34">
+      <navLabel>
+        <text>第3章 以太坊客户端</text>
+      </navLabel>
+      <content src="text/part0035.html"/>
+      <navPoint class="chapter" id="num_35" playOrder="35">
+        <navLabel>
+          <text>以太坊网络</text>
+        </navLabel>
+        <content src="text/part0036.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_36" playOrder="36">
+        <navLabel>
+          <text>运行以太坊客户端</text>
+        </navLabel>
+        <content src="text/part0037.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_37" playOrder="37">
+        <navLabel>
+          <text>以太坊区块链数据的首次同步</text>
+        </navLabel>
+        <content src="text/part0038.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_38" playOrder="38">
+        <navLabel>
+          <text>远程调用以太坊客户端</text>
+        </navLabel>
+        <content src="text/part0039.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_39" playOrder="39">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/part0040.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_40" playOrder="40">
+      <navLabel>
+        <text>第4章 以太坊背后的密码学</text>
+      </navLabel>
+      <content src="text/part0041.html"/>
+      <navPoint class="chapter" id="num_41" playOrder="41">
+        <navLabel>
+          <text>密钥和地址</text>
+        </navLabel>
+        <content src="text/part0042.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_42" playOrder="42">
+        <navLabel>
+          <text>公钥密码学和加密货币</text>
+        </navLabel>
+        <content src="text/part0043.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_43" playOrder="43">
+        <navLabel>
+          <text>私钥</text>
+        </navLabel>
+        <content src="text/part0044.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_44" playOrder="44">
+        <navLabel>
+          <text>公钥</text>
+        </navLabel>
+        <content src="text/part0045.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_45" playOrder="45">
+        <navLabel>
+          <text>密码学哈希函数</text>
+        </navLabel>
+        <content src="text/part0046.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_46" playOrder="46">
+        <navLabel>
+          <text>以太坊地址</text>
+        </navLabel>
+        <content src="text/part0047.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_47" playOrder="47">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/part0048.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_48" playOrder="48">
+      <navLabel>
+        <text>第5章 钱包</text>
+      </navLabel>
+      <content src="text/part0049.html"/>
+      <navPoint class="chapter" id="num_49" playOrder="49">
+        <navLabel>
+          <text>钱包技术概述</text>
+        </navLabel>
+        <content src="text/part0050.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_50" playOrder="50">
+        <navLabel>
+          <text>钱包的最佳实践</text>
+        </navLabel>
+        <content src="text/part0051.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_51" playOrder="51">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/part0052.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_52" playOrder="52">
+      <navLabel>
+        <text>第6章 交易</text>
+      </navLabel>
+      <content src="text/part0053.html"/>
+      <navPoint class="chapter" id="num_53" playOrder="53">
+        <navLabel>
+          <text>交易的结构</text>
+        </navLabel>
+        <content src="text/part0054.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_54" playOrder="54">
+        <navLabel>
+          <text>交易的随机数</text>
+        </navLabel>
+        <content src="text/part0055.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_55" playOrder="55">
+        <navLabel>
+          <text>交易的gas</text>
+        </navLabel>
+        <content src="text/part0056.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_56" playOrder="56">
+        <navLabel>
+          <text>交易的接收方</text>
+        </navLabel>
+        <content src="text/part0057.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_57" playOrder="57">
+        <navLabel>
+          <text>交易中的以太币和数据</text>
+        </navLabel>
+        <content src="text/part0058.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_58" playOrder="58">
+        <navLabel>
+          <text>特殊交易：合约创建</text>
+        </navLabel>
+        <content src="text/part0059.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_59" playOrder="59">
+        <navLabel>
+          <text>数字签名</text>
+        </navLabel>
+        <content src="text/part0060.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_60" playOrder="60">
+        <navLabel>
+          <text>签名的前缀值(v)和公钥恢复</text>
+        </navLabel>
+        <content src="text/part0061.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_61" playOrder="61">
+        <navLabel>
+          <text>离线签名</text>
+        </navLabel>
+        <content src="text/part0062.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_62" playOrder="62">
+        <navLabel>
+          <text>交易的传播</text>
+        </navLabel>
+        <content src="text/part0063.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_63" playOrder="63">
+        <navLabel>
+          <text>记录在区块链上</text>
+        </navLabel>
+        <content src="text/part0064.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_64" playOrder="64">
+        <navLabel>
+          <text>多签名交易</text>
+        </navLabel>
+        <content src="text/part0065.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_65" playOrder="65">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/part0066.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_66" playOrder="66">
+      <navLabel>
+        <text>第7章 智能合约与Solidity</text>
+      </navLabel>
+      <content src="text/part0067.html"/>
+      <navPoint class="chapter" id="num_67" playOrder="67">
+        <navLabel>
+          <text>什么是智能合约？</text>
+        </navLabel>
+        <content src="text/part0068.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_68" playOrder="68">
+        <navLabel>
+          <text>智能合约的生命周期</text>
+        </navLabel>
+        <content src="text/part0069.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_69" playOrder="69">
+        <navLabel>
+          <text>以太坊高级编程语言</text>
+        </navLabel>
+        <content src="text/part0070.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_70" playOrder="70">
+        <navLabel>
+          <text>使用Solidity编写智能合约</text>
+        </navLabel>
+        <content src="text/part0071.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_71" playOrder="71">
+        <navLabel>
+          <text>以太坊合约的应用程序二进制接口</text>
+        </navLabel>
+        <content src="text/part0072.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_72" playOrder="72">
+        <navLabel>
+          <text>使用Solidity进行编程</text>
+        </navLabel>
+        <content src="text/part0073.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_73" playOrder="73">
+        <navLabel>
+          <text>与gas有关的注意事项</text>
+        </navLabel>
+        <content src="text/part0074.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_74" playOrder="74">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/part0075.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_75" playOrder="75">
+      <navLabel>
+        <text>第8章 智能合约与Vyper</text>
+      </navLabel>
+      <content src="text/part0076.html"/>
+      <navPoint class="chapter" id="num_76" playOrder="76">
+        <navLabel>
+          <text>合约的常见漏洞和Vyper</text>
+        </navLabel>
+        <content src="text/part0077.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_77" playOrder="77">
+        <navLabel>
+          <text>与Solidity的比较</text>
+        </navLabel>
+        <content src="text/part0078.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_78" playOrder="78">
+        <navLabel>
+          <text>装饰器</text>
+        </navLabel>
+        <content src="text/part0079.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_79" playOrder="79">
+        <navLabel>
+          <text>函数和变量顺序</text>
+        </navLabel>
+        <content src="text/part0080.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_80" playOrder="80">
+        <navLabel>
+          <text>编译</text>
+        </navLabel>
+        <content src="text/part0081.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_81" playOrder="81">
+        <navLabel>
+          <text>在编译器层面防止溢出错误</text>
+        </navLabel>
+        <content src="text/part0082.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_82" playOrder="82">
+        <navLabel>
+          <text>读取数据</text>
+        </navLabel>
+        <content src="text/part0083.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_83" playOrder="83">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/part0084.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_84" playOrder="84">
+      <navLabel>
+        <text>第9章 智能合约安全</text>
+      </navLabel>
+      <content src="text/part0085.html"/>
+      <navPoint class="chapter" id="num_85" playOrder="85">
+        <navLabel>
+          <text>安全最佳实践</text>
+        </navLabel>
+        <content src="text/part0086.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_86" playOrder="86">
+        <navLabel>
+          <text>安全风险和反模式</text>
+        </navLabel>
+        <content src="text/part0087.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_87" playOrder="87">
+        <navLabel>
+          <text>重入</text>
+        </navLabel>
+        <content src="text/part0088.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_88" playOrder="88">
+        <navLabel>
+          <text>算术溢出</text>
+        </navLabel>
+        <content src="text/part0089.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_89" playOrder="89">
+        <navLabel>
+          <text>意外的以太币</text>
+        </navLabel>
+        <content src="text/part0090.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_90" playOrder="90">
+        <navLabel>
+          <text>DELEGATECALL</text>
+        </navLabel>
+        <content src="text/part0091.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_91" playOrder="91">
+        <navLabel>
+          <text>默认的可见性</text>
+        </navLabel>
+        <content src="text/part0092.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_92" playOrder="92">
+        <navLabel>
+          <text>无序错觉</text>
+        </navLabel>
+        <content src="text/part0093.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_93" playOrder="93">
+        <navLabel>
+          <text>外部合约引用</text>
+        </navLabel>
+        <content src="text/part0094.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_94" playOrder="94">
+        <navLabel>
+          <text>短地址/参数攻击</text>
+        </navLabel>
+        <content src="text/part0095.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_95" playOrder="95">
+        <navLabel>
+          <text>未检查的调用返回值</text>
+        </navLabel>
+        <content src="text/part0096.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_96" playOrder="96">
+        <navLabel>
+          <text>竞争条件/预先交易</text>
+        </navLabel>
+        <content src="text/part0097.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_97" playOrder="97">
+        <navLabel>
+          <text>拒绝服务</text>
+        </navLabel>
+        <content src="text/part0098.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_98" playOrder="98">
+        <navLabel>
+          <text>区块时间戳操纵</text>
+        </navLabel>
+        <content src="text/part0099.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_99" playOrder="99">
+        <navLabel>
+          <text>小心使用构造函数</text>
+        </navLabel>
+        <content src="text/part0100.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_100" playOrder="100">
+        <navLabel>
+          <text>未初始化的存储指针</text>
+        </navLabel>
+        <content src="text/part0101.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_101" playOrder="101">
+        <navLabel>
+          <text>浮点数和精度</text>
+        </navLabel>
+        <content src="text/part0102.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_102" playOrder="102">
+        <navLabel>
+          <text>Tx.Origin验证</text>
+        </navLabel>
+        <content src="text/part0103.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_103" playOrder="103">
+        <navLabel>
+          <text>合约程序库</text>
+        </navLabel>
+        <content src="text/part0104.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_104" playOrder="104">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/part0105.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_105" playOrder="105">
+      <navLabel>
+        <text>第10章 代币</text>
+      </navLabel>
+      <content src="text/part0106.html"/>
+      <navPoint class="chapter" id="num_106" playOrder="106">
+        <navLabel>
+          <text>代币有哪些使用方式？</text>
+        </navLabel>
+        <content src="text/part0107.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_107" playOrder="107">
+        <navLabel>
+          <text>代币和可替代性</text>
+        </navLabel>
+        <content src="text/part0108.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_108" playOrder="108">
+        <navLabel>
+          <text>对手方风险</text>
+        </navLabel>
+        <content src="text/part0109.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_109" playOrder="109">
+        <navLabel>
+          <text>代币和内在性</text>
+        </navLabel>
+        <content src="text/part0110.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_110" playOrder="110">
+        <navLabel>
+          <text>使用代币：工具型代币还是权益型代币？</text>
+        </navLabel>
+        <content src="text/part0111.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_111" playOrder="111">
+        <navLabel>
+          <text>以太坊的代币</text>
+        </navLabel>
+        <content src="text/part0112.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_112" playOrder="112">
+        <navLabel>
+          <text>代币标准</text>
+        </navLabel>
+        <content src="text/part0113.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_113" playOrder="113">
+        <navLabel>
+          <text>代币接口标准的扩展</text>
+        </navLabel>
+        <content src="text/part0114.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_114" playOrder="114">
+        <navLabel>
+          <text>代币和ICO</text>
+        </navLabel>
+        <content src="text/part0115.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_115" playOrder="115">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/part0116.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_116" playOrder="116">
+      <navLabel>
+        <text>第11章 预言机</text>
+      </navLabel>
+      <content src="text/part0117.html"/>
+      <navPoint class="chapter" id="num_117" playOrder="117">
+        <navLabel>
+          <text>为什么需要预言机？</text>
+        </navLabel>
+        <content src="text/part0118.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_118" playOrder="118">
+        <navLabel>
+          <text>预言机的应用场景和示例</text>
+        </navLabel>
+        <content src="text/part0119.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_119" playOrder="119">
+        <navLabel>
+          <text>预言机的设计模式</text>
+        </navLabel>
+        <content src="text/part0120.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_120" playOrder="120">
+        <navLabel>
+          <text>数据认证</text>
+        </navLabel>
+        <content src="text/part0121.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_121" playOrder="121">
+        <navLabel>
+          <text>计算性的预言机</text>
+        </navLabel>
+        <content src="text/part0122.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_122" playOrder="122">
+        <navLabel>
+          <text>去中心化预言机</text>
+        </navLabel>
+        <content src="text/part0123.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_123" playOrder="123">
+        <navLabel>
+          <text>Solidity中的预言机客户端接口</text>
+        </navLabel>
+        <content src="text/part0124.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_124" playOrder="124">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/part0125.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_125" playOrder="125">
+      <navLabel>
+        <text>第12章 去中心化应用</text>
+      </navLabel>
+      <content src="text/part0126.html"/>
+      <navPoint class="chapter" id="num_126" playOrder="126">
+        <navLabel>
+          <text>什么是DApp？</text>
+        </navLabel>
+        <content src="text/part0127.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_127" playOrder="127">
+        <navLabel>
+          <text>一个基本的DApp示例：拍卖DApp</text>
+        </navLabel>
+        <content src="text/part0128.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_128" playOrder="128">
+        <navLabel>
+          <text>拍卖DApp的进一步去中心化</text>
+        </navLabel>
+        <content src="text/part0129.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_129" playOrder="129">
+        <navLabel>
+          <text>使用Swarm进行数据存储</text>
+        </navLabel>
+        <content src="text/part0130.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_130" playOrder="130">
+        <navLabel>
+          <text>以太坊名称服务</text>
+        </navLabel>
+        <content src="text/part0131.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_131" playOrder="131">
+        <navLabel>
+          <text>从普通应用到去中心化应用</text>
+        </navLabel>
+        <content src="text/part0132.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_132" playOrder="132">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/part0133.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_133" playOrder="133">
+      <navLabel>
+        <text>第13章 以太坊虚拟机</text>
+      </navLabel>
+      <content src="text/part0134.html"/>
+      <navPoint class="chapter" id="num_134" playOrder="134">
+        <navLabel>
+          <text>什么是EVM？</text>
+        </navLabel>
+        <content src="text/part0135.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_135" playOrder="135">
+        <navLabel>
+          <text>图灵完备和gas</text>
+        </navLabel>
+        <content src="text/part0136.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_136" playOrder="136">
+        <navLabel>
+          <text>gas</text>
+        </navLabel>
+        <content src="text/part0137.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_137" playOrder="137">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/part0138.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_138" playOrder="138">
+      <navLabel>
+        <text>第14章 共识</text>
+      </navLabel>
+      <content src="text/part0139.html"/>
+      <navPoint class="chapter" id="num_139" playOrder="139">
+        <navLabel>
+          <text>基于工作量证明的共识机制</text>
+        </navLabel>
+        <content src="text/part0140.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_140" playOrder="140">
+        <navLabel>
+          <text>基于权益证明的共识机制</text>
+        </navLabel>
+        <content src="text/part0141.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_141" playOrder="141">
+        <navLabel>
+          <text>Ethash：以太坊的PoW算法</text>
+        </navLabel>
+        <content src="text/part0142.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_142" playOrder="142">
+        <navLabel>
+          <text>Casper：以太坊的PoS算法</text>
+        </navLabel>
+        <content src="text/part0143.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_143" playOrder="143">
+        <navLabel>
+          <text>共识的原则</text>
+        </navLabel>
+        <content src="text/part0144.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_144" playOrder="144">
+        <navLabel>
+          <text>争议和竞争</text>
+        </navLabel>
+        <content src="text/part0145.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_145" playOrder="145">
+        <navLabel>
+          <text>总结</text>
+        </navLabel>
+        <content src="text/part0146.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_146" playOrder="146">
+      <navLabel>
+        <text>附录A 以太坊的分叉历史</text>
+      </navLabel>
+      <content src="text/part0147.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_147" playOrder="147">
+      <navLabel>
+        <text>附录B 以太坊标准</text>
+      </navLabel>
+      <content src="text/part0148.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_148" playOrder="148">
+      <navLabel>
+        <text>附录C EVM操作码和对应的gas开销</text>
+      </navLabel>
+      <content src="text/part0149.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_149" playOrder="149">
+      <navLabel>
+        <text>附录D 开发工具、框架和类库</text>
+      </navLabel>
+      <content src="text/part0150.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_150" playOrder="150">
+      <navLabel>
+        <text>附录E web3.js教程</text>
+      </navLabel>
+      <content src="text/part0151.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
